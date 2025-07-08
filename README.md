@@ -1,7 +1,7 @@
 # 🌟 Tiny Story Spinner
 
 A delightful web application that generates magical micro-stories based on user inputs. Built with Next.js 14, featuring kawaii-inspired design, text-to-speech functionality, and smooth animations.
-tiny-story-spinnerrr.vercel.app
+
 
 ## ✨ Features
 
